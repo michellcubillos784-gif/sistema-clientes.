@@ -1,0 +1,3 @@
+ID | Nombre | Ciudad
+1 | Maria | Bogota
+2 | Carlos | Medellin
